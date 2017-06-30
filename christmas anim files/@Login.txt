@@ -1,0 +1,11 @@
+//to Login to pi
+ssh pi@192.168.1.37
+password: raspberry
+
+//to play christmas song
+cd christmas
+python xmas.py frosty.txt frosty.mp3
+
+
+//to shut down the pi
+sudo shutdown

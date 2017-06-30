@@ -1,0 +1,86 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="Grandma_data" version="1.3.0" audacityversion="2.1.1" sel0="5.1718826667" sel1="5.1718826667" vpos="0" h="4.5861546667" zoom="732.4218750000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="GENRE" value="Christmas"/>
+		<tag name="ARTIST" value="Varios Artists"/>
+		<tag name="ALBUM" value="Christmas Music"/>
+		<tag name="Unknown text information frame" value="1"/>
+	</tags>
+	<wavetrack name="Grandma" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1020672">
+				<waveblock start="0">
+					<simpleblockfile filename="e000075b.au" len="262144" min="-0.582442" max="0.747704" rms="0.072678"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000026.au" len="262144" min="-0.640368" max="0.805033" rms="0.103096"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000cca.au" len="262144" min="-0.551803" max="0.738552" rms="0.095624"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000613.au" len="234240" min="-0.685298" max="0.749298" rms="0.08672"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Grandma" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="1020672">
+				<waveblock start="0">
+					<simpleblockfile filename="e000018d.au" len="262144" min="-0.726415" max="0.817683" rms="0.067673"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000017.au" len="262144" min="-0.758058" max="0.743422" rms="0.109784"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00005a5.au" len="262144" min="-0.612401" max="0.700225" rms="0.096478"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000579.au" len="234240" min="-0.707027" max="0.770028" rms="0.088476"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="36" height="73" minimized="0" isSelected="0">
+		<label t="5.0394453333" t1="5.3248000000" title="grand"/>
+		<label t="5.3985280000" t1="5.6265386667" title="ma"/>
+		<label t="5.6579413333" t1="5.8955093333" title="got"/>
+		<label t="5.9446613333" t1="6.1276160000" title="run"/>
+		<label t="6.1276160000" t1="6.3842986667" title="O"/>
+		<label t="6.4894293333" t1="6.7106133333" title="ver"/>
+		<label t="6.7761493333" t1="7.1912106667" title="by a"/>
+		<label t="7.2308053333" t1="7.5844266667" title="rein"/>
+		<label t="7.6062720000" t1="8.3435520000" title="deer "/>
+		<label t="9.4535680000" t1="9.6965973333" title="walk"/>
+		<label t="9.7307306667" t1="9.8781866667" title="ing"/>
+		<label t="9.9123200000" t1="10.2714026667" title="home"/>
+		<label t="10.3096320000" t1="10.4338773333" title="from"/>
+		<label t="10.4748373333" t1="10.7205973333" title="our"/>
+		<label t="10.7779413333" t1="11.0687573333" title="house"/>
+		<label t="11.1370240000" t1="11.3814186667" title="christ"/>
+		<label t="11.4633386667" t1="11.6435626667" title="mas"/>
+		<label t="11.6790613333" t1="12.1637546667" title="eve"/>
+		<label t="13.8376533333" t1="14.0247040000" title="you"/>
+		<label t="14.0806826667" t1="14.1926400000" title="can"/>
+		<label t="14.4083626667" t1="14.6513920000" title="say"/>
+		<label t="14.6800640000" t1="14.9162666667" title="theres"/>
+		<label t="14.9435733333" t1="15.1743146667" title="no"/>
+		<label t="15.2098133333" t1="15.3982293333" title="such"/>
+		<label t="15.4897066667" t1="15.7026986667" title="thing"/>
+		<label t="15.7422933333" t1="15.9320746667" title="as"/>
+		<label t="16.0058026667" t1="16.3116373333" title="san"/>
+		<label t="16.3758080000" t1="17.0352640000" title="ta"/>
+		<label t="18.2135466667" t1="18.6695680000" title="but as"/>
+		<label t="18.7378346667" t1="18.8538880000" title="for"/>
+		<label t="18.8757333333" t1="18.9904213333" title="me"/>
+		<label t="19.0204586667" t1="19.1938560000" title="and"/>
+		<label t="19.2703146667" t1="19.5010560000" title="grand"/>
+		<label t="19.6444160000" t1="19.8888106667" title="pa"/>
+		<label t="20.0895146667" t1="20.2164906667" title="we"/>
+		<label t="20.2560853333" t1="21.2459520000" title="beleave"/>
+	</labeltrack>
+</project>

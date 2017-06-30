@@ -1,0 +1,230 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="jolly_data" version="1.3.0" audacityversion="2.1.1" sel0="75.2773284912" sel1="75.2773284912" vpos="0" h="77.4135589600" zoom="524.2880000000" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags/>
+	<wavetrack name="jolly" channel="0" linked="1" mute="0" solo="0" height="285" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3651840">
+				<waveblock start="0">
+					<simpleblockfile filename="e000062c.au" len="262144" min="-0.346021" max="0.371609" rms="0.062681"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000ba1.au" len="262144" min="-0.678168" max="0.581116" rms="0.107227"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e000016e.au" len="262144" min="-0.758391" max="0.597438" rms="0.12772"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000e8d.au" len="262144" min="-0.657764" max="0.473048" rms="0.086057"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000c04.au" len="262144" min="-0.61156" max="0.571245" rms="0.106317"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0000c61.au" len="262144" min="-0.610317" max="0.501952" rms="0.104549"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e00000d5.au" len="262144" min="-0.711322" max="0.644162" rms="0.112079"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0000541.au" len="262144" min="-0.747284" max="0.723471" rms="0.138189"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000b9c.au" len="262144" min="-0.357713" max="0.342283" rms="0.089281"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000a42.au" len="262144" min="-0.61074" max="0.577531" rms="0.120306"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000ecf.au" len="262144" min="-0.714372" max="0.662215" rms="0.13993"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e00001ae.au" len="262144" min="-0.730567" max="0.648692" rms="0.15226"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000f49.au" len="262144" min="-0.752367" max="0.630715" rms="0.161293"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e00000a1.au" len="243968" min="-0.246824" max="0.254925" rms="0.013635"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="jolly" channel="1" linked="0" mute="0" solo="0" height="285" minimized="0" isSelected="1" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3651840">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000eb8.au" len="262144" min="-0.336037" max="0.289004" rms="0.046732"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000166.au" len="262144" min="-0.684805" max="0.626282" rms="0.092243"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000ae7.au" len="262144" min="-0.666673" max="0.611048" rms="0.105037"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000397.au" len="262144" min="-0.572111" max="0.461725" rms="0.07479"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000b34.au" len="262144" min="-0.53669" max="0.494398" rms="0.087837"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e000077b.au" len="262144" min="-0.531511" max="0.436334" rms="0.089331"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e00005cf.au" len="262144" min="-0.674059" max="0.574976" rms="0.093603"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e000025a.au" len="262144" min="-0.69628" max="0.742324" rms="0.116964"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000799.au" len="262144" min="-0.283812" max="0.319996" rms="0.069821"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000618.au" len="262144" min="-0.550366" max="0.52081" rms="0.093218"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e0000c35.au" len="262144" min="-0.643957" max="0.692504" rms="0.113817"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0000020.au" len="262144" min="-0.680132" max="0.602878" rms="0.129057"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e000061e.au" len="262144" min="-0.60329" max="0.612925" rms="0.117913"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e00008c7.au" len="243968" min="-0.141465" max="0.110601" rms="0.007961"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<labeltrack name="Label Track" numlabels="125" height="93" minimized="0" isSelected="0">
+		<label t="0.1811981201" t1="0.7038116455" title="9=all 2= JustBG Singers 1=Burl Ives"/>
+		<label t="6.5288543701" t1="6.6490173340" title="9Have"/>
+		<label t="6.6719055176" t1="6.7577362061" title="9A"/>
+		<label t="6.7901611328" t1="7.4291229248" title="9Holly"/>
+		<label t="7.4958801270" t1="8.0223083496" title="9Jolly"/>
+		<label t="8.1176757812" t1="8.7375640869" title="9Christmas"/>
+		<label t="9.0266268772" t1="9.0980529785" title="1its"/>
+		<label t="9.1876983643" t1="9.2506408691" title="1the"/>
+		<label t="9.3212127686" t1="9.4661712646" title="1best"/>
+		<label t="9.6454620361" t1="9.8628997803" title="1Time"/>
+		<label t="10.0078582764" t1="10.1470947266" title="1of"/>
+		<label t="10.2996826172" t1="10.4808807373" title="1the"/>
+		<label t="10.5876922607" t1="10.8737945557" title="1year"/>
+		<label t="11.8980407715" t1="12.0525360107" title="1I"/>
+		<label t="12.0239257812" t1="15.9212039533" title="2OhOh"/>
+		<label t="12.2394561768" t1="12.3538970947" title="1Dont"/>
+		<label t="12.5370025635" t1="12.7944946289" title="1Know"/>
+		<label t="12.9585266113" t1="13.0405426025" title="1if"/>
+		<label t="13.1607055664" t1="13.3113861084" title="1therell"/>
+		<label t="13.4468078613" t1="13.5631561279" title="1be"/>
+		<label t="13.8130187988" t1="14.2154693604" title="1snow"/>
+		<label t="14.6598815918" t1="14.9250030518" title="1but have"/>
+		<label t="14.9860382080" t1="15.0699615479" title="1a"/>
+		<label t="15.1367187500" t1="15.2626037598" title="1cup"/>
+		<label t="15.3560638428" t1="15.4800415039" title="1of"/>
+		<label t="15.6307220459" t1="15.8367156982" title="1cheer"/>
+		<label t="16.6149139404" t1="16.7350769043" title="9Have"/>
+		<label t="16.7579650879" t1="16.8437957764" title="9A"/>
+		<label t="16.8762207031" t1="17.5151824951" title="9Holly"/>
+		<label t="17.5819396973" t1="18.1083679199" title="9Jolly"/>
+		<label t="18.2037353516" t1="18.7187194824" title="9Christmas"/>
+		<label t="19.1440582275" t1="19.2154843289" title="1and"/>
+		<label t="19.2947387695" t1="19.3576812744" title="1when"/>
+		<label t="19.4416046143" t1="19.5865631104" title="1you"/>
+		<label t="19.7601318359" t1="19.8898315430" title="1walk"/>
+		<label t="20.0939178467" t1="20.2331542969" title="1down"/>
+		<label t="20.4124450684" t1="20.5001831055" title="1the"/>
+		<label t="20.6909179688" t1="20.9102630615" title="1street"/>
+		<label t="21.9841003418" t1="22.1805572510" title="1say"/>
+		<label t="22.3026275635" t1="22.4151611328" title="1hel"/>
+		<label t="22.6268768311" t1="22.8042602539" title="1lo"/>
+		<label t="23.1342315674" t1="23.2143402100" title="1to"/>
+		<label t="23.2810974121" t1="23.4298706055" title="1friends"/>
+		<label t="23.5824584961" t1="23.6721038818" title="1you"/>
+		<label t="23.9181518555" t1="24.1203308105" title="1know"/>
+		<label t="24.4884490967" t1="24.6524810791" title="1and ev"/>
+		<label t="24.9023437500" t1="25.0453948975" title="1ery"/>
+		<label t="25.1998901367" t1="25.3200531006" title="1one"/>
+		<label t="25.4459381104" t1="25.6481170654" title="1you"/>
+		<label t="25.8159637451" t1="26.0467529297" title="1meet"/>
+		<label t="27.1396636963" t1="27.7614593506" title="2OooooooOoo"/>
+		<label t="27.1396636963" t1="27.4162292480" title="1ho"/>
+		<label t="27.7843475342" t1="28.3985137939" title="2OooooooOoo"/>
+		<label t="27.7843475342" t1="27.9731750488" title="1ho"/>
+		<label t="28.2287597656" t1="28.3451080322" title="1the"/>
+		<label t="28.3870697021" t1="28.4938812256" title="1mis"/>
+		<label t="28.4137725830" t1="28.9478302002" title="2OooooooOoo"/>
+		<label t="28.6769866943" t1="28.8982391357" title="1tle"/>
+		<label t="28.9840698242" t1="29.7050476074" title="2OooooooOoo"/>
+		<label t="29.0126800537" t1="29.3216705322" title="1toe"/>
+		<label t="29.6459197998" t1="29.7641754150" title="1hung"/>
+		<label t="29.7470092773" t1="31.1914003337" title="2OooooooOoo"/>
+		<label t="29.9568176270" t1="30.0846099854" title="1where"/>
+		<label t="30.2753448486" t1="30.4298400879" title="1you"/>
+		<label t="30.5767059326" t1="30.7140350342" title="1can"/>
+		<label t="30.9295654297" t1="31.2252044678" title="1see"/>
+		<label t="32.2856903076" t1="32.5164794922" title="1some"/>
+		<label t="32.9341888428" t1="33.4491729736" title="1body"/>
+		<label t="33.5483551025" t1="33.6685180664" title="1waits"/>
+		<label t="33.8897705078" t1="33.9527130127" title="1for"/>
+		<label t="34.1606140137" t1="34.4104766846" title="1you"/>
+		<label t="34.8911285400" t1="34.9483489990" title="1kiss"/>
+		<label t="35.0723266602" t1="35.3488922119" title="1her"/>
+		<label t="35.5815887451" t1="35.6826782227" title="1once"/>
+		<label t="35.8982086182" t1="36.1251831055" title="1for"/>
+		<label t="36.2415313721" t1="36.5600585938" title="1me"/>
+		<label t="37.1665954590" t1="37.2867584229" title="9Have"/>
+		<label t="37.3096466064" t1="37.3954772949" title="9A"/>
+		<label t="37.4279022217" t1="38.0668640137" title="9Holly"/>
+		<label t="38.1336212158" t1="38.6600494385" title="9Jolly"/>
+		<label t="38.7554168701" t1="39.3753051758" title="9Christmas"/>
+		<label t="39.7491455078" t1="39.8205716091" title="1and"/>
+		<label t="39.8731231689" t1="39.9570465088" title="1in"/>
+		<label t="40.0829315186" t1="40.1992797852" title="1case"/>
+		<label t="40.3766632080" t1="40.4987335205" title="1you"/>
+		<label t="40.7047271729" t1="41.1186218262" title="1didnt"/>
+		<label t="41.3455963135" t1="41.6316986084" title="1hear"/>
+		<label t="42.6769256592" t1="42.8981781006" title="9oh"/>
+		<label t="43.0126190186" t1="43.2090759277" title="9by"/>
+		<label t="43.3006286621" t1="43.5142517090" title="9golly"/>
+		<label t="43.6477661133" t1="43.8194274902" title="9have"/>
+		<label t="43.8575744629" t1="43.9395904541" title="91"/>
+		<label t="44.0025329590" t1="44.4393157959" title="9holly"/>
+		<label t="44.6586608887" t1="45.1412200928" title="9Jolly"/>
+		<label t="45.2823638916" t1="45.4292297363" title="9Christ"/>
+		<label t="45.5970764160" t1="45.7611083984" title="9mas"/>
+		<label t="46.2512969971" t1="46.3848114014" title="9this"/>
+		<label t="46.5469360352" t1="47.3537445068" title="9Year"/>
+		<label t="56.9171905518" t1="57.4092864990" title="2holly"/>
+		<label t="57.5714111328" t1="57.9844307534" title="2Jolly"/>
+		<label t="58.2413132049" t1="58.6490631104" title="2Holly"/>
+		<label t="58.8378906250" t1="59.3566894531" title="2jolly"/>
+		<label t="59.5427801309" t1="61.4449428828" title="2Oooohhhh"/>
+		<label t="61.7885589600" t1="61.9087219238" title="9Have"/>
+		<label t="61.9316101074" t1="62.0174407959" title="9A"/>
+		<label t="62.0498657227" t1="62.6888275146" title="9Holly"/>
+		<label t="62.7555847168" t1="63.2820129395" title="9Jolly"/>
+		<label t="63.3773803711" t1="63.9972686768" title="9Christmas"/>
+		<label t="64.4168853760" t1="64.4883114773" title="1and"/>
+		<label t="64.5141601562" t1="64.5980834961" title="1in"/>
+		<label t="64.7048950195" t1="64.8212432861" title="1case"/>
+		<label t="64.9986267090" t1="65.1206970215" title="1you"/>
+		<label t="65.3266906738" t1="65.7405853271" title="1didnt"/>
+		<label t="65.9675598145" t1="66.2536621094" title="1hear"/>
+		<label t="67.3694610596" t1="67.5106048584" title="9oh"/>
+		<label t="67.6898956299" t1="67.8310394287" title="9by"/>
+		<label t="68.0027008057" t1="68.2163238525" title="9golly"/>
+		<label t="68.2697296143" t1="68.4547424316" title="9have"/>
+		<label t="68.5176849365" t1="68.5997009277" title="91"/>
+		<label t="68.7103271484" t1="69.0612792969" title="9holly"/>
+		<label t="69.3035125732" t1="69.7860717773" title="9Jolly"/>
+		<label t="70.0149536133" t1="70.4059600830" title="9Christ"/>
+		<label t="70.6668720318" t1="71.2955012194" title="9Mas"/>
+		<label t="71.9465087922" t1="72.4591772558" title="9This"/>
+		<label t="72.6931331023" t1="75.2503722244" title="9Year"/>
+	</labeltrack>
+</project>
